@@ -1,0 +1,25 @@
+如何高效使用MAC
+
+要点：
+1. 命令行的基本设置
+  - 1. bash/zsh/fish的区别
+  - 2. oh-my-zsh的安装
+  - 3. command prompt的安装 (powerlevel10k, starship)
+2. 常用命令
+  - 1. 命令安装管理工具 (brew, nix)
+  - 2. 常用命令的安装与使用 (git, zoxide, fzf, bat, eza, fnm, yazi, tmux)
+3. 设置跨设备同步
+  - 1. stow (轻度配置)
+  - 2. nix (闭环配置，跨操作系统)
+4. 编辑器
+  - 1. vim
+  - 2. neovim
+5. terminal
+  - 1. kitty (快，配置不灵活)
+  - 2. ghostty (原生终端，快，配置灵活)
+6. 其他工具
+  - 1. hammerspoon (设置快捷键，输入法切换监听)
+  - 2. raycast (快捷打开应用，窗口管理)
+
+
+
