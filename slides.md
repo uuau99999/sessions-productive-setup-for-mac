@@ -37,7 +37,7 @@ layout: default
 
 # 目录
 
-<Toc maxDepth="2" />
+<Toc :minDepth="1" :maxDepth="1" columns="1" />
 
 ---
 src: ./pages/01-shell-setup.md
@@ -101,6 +101,7 @@ class: text-center
 ---
 layout: center
 class: text-center
+hideInToc: true
 ---
 
 # 谢谢！

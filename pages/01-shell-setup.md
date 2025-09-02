@@ -8,6 +8,7 @@ layout: section
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # Shell 选择
@@ -53,6 +54,7 @@ chsh -s /bin/zsh
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # oh-my-zsh 安装
@@ -93,6 +95,7 @@ source ~/.zshrc
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # 命令提示符美化
@@ -139,6 +142,7 @@ eval "$(starship init zsh)"
 ---
 layout: center
 class: text-center
+level: 2
 ---
 
 # Shell 配置完成！

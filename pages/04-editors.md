@@ -10,6 +10,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Vim 编辑器
@@ -59,6 +60,7 @@ w b                    # 单词移动
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Vim 核心概念
@@ -109,6 +111,7 @@ n                       " 下一个匹配
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Neovim 编辑器
@@ -154,6 +157,7 @@ nvim file.txt           # 打开文件
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Neovim 配置
@@ -207,6 +211,7 @@ vim.opt.expandtab = true
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # LSP 集成
@@ -255,6 +260,7 @@ lspconfig.tsserver.setup({
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 插件推荐
@@ -304,6 +310,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 编辑器选择建议
@@ -351,6 +358,7 @@ nvim
 ---
 layout: center
 class: text-center
+level: 2
 ---
 
 # 编辑器配置完成！

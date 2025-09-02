@@ -10,6 +10,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 终端应用对比
@@ -54,6 +55,7 @@ brew install --cask ghostty
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Kitty 配置
@@ -105,6 +107,7 @@ map cmd+shift+right neighboring_window right
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Kitty 高级功能
@@ -152,6 +155,7 @@ Ctrl+Shift+Left/Right   # 切换窗口
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Ghostty 配置
@@ -201,6 +205,7 @@ scrollback-lines = 10000
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Ghostty 特色功能
@@ -247,6 +252,7 @@ notifications = true
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 终端主题配置
@@ -293,6 +299,7 @@ color-scheme = gruvbox-dark
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 终端性能优化
@@ -341,6 +348,7 @@ scrollback_pager less --chop-long-lines --RAW-CONTROL-CHARS +INPUT_LINE_NUMBER
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 终端选择建议
@@ -388,6 +396,7 @@ brew install --cask kitty    # 或 ghostty
 ---
 layout: center
 class: text-center
+level: 2
 ---
 
 # 终端配置完成！

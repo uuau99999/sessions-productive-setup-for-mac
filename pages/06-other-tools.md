@@ -10,6 +10,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Hammerspoon
@@ -69,6 +70,7 @@ end)
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Hammerspoon 配置
@@ -132,6 +134,7 @@ end):start()
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Raycast
@@ -180,6 +183,7 @@ Cmd + Space              # 打开 Raycast
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Raycast 高级功能
@@ -232,6 +236,7 @@ export default async function main() {
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 窗口管理工具
@@ -282,6 +287,7 @@ Cmd + Option + K        # 右下
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 系统监控工具
@@ -330,6 +336,7 @@ F10                     # 退出
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 开发辅助工具
@@ -376,6 +383,7 @@ gh pr create                       # 创建 Pull Request
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 工具配置建议
@@ -424,6 +432,7 @@ raycast --version
 ---
 layout: center
 class: text-center
+level: 2
 ---
 
 # 工具配置完成！

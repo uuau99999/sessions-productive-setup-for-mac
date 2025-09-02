@@ -10,6 +10,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 配置同步方案
@@ -56,6 +57,7 @@ sh <(curl -L https://nixos.org/nix/install)
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Stow 配置管理
@@ -110,6 +112,7 @@ ls -la ~/.zshrc
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Stow 高级用法
@@ -162,6 +165,7 @@ echo "配置部署完成！"
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Nix 配置管理
@@ -220,6 +224,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Nix 实际应用
@@ -267,6 +272,7 @@ nix run
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 配置同步策略
@@ -312,6 +318,7 @@ cd dotfiles && stow */
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 配置备份与恢复
@@ -362,6 +369,7 @@ cd dotfiles && stow */
 ---
 layout: center
 class: text-center
+level: 2
 ---
 
 # 配置同步完成！

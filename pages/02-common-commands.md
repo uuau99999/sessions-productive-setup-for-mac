@@ -10,6 +10,7 @@ class: text-sm
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 包管理工具
@@ -57,6 +58,7 @@ nix-shell -p git nodejs
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Git 增强工具
@@ -102,6 +104,7 @@ git config --global alias.ci commit
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 目录导航工具
@@ -146,6 +149,7 @@ zi                # 交互式选择目录
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 文件搜索工具
@@ -192,6 +196,7 @@ Alt+C                  # 快速 cd 到目录
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 文件查看工具
@@ -237,6 +242,7 @@ alias cat='bat --paging=never'
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 目录列表工具
@@ -286,6 +292,7 @@ alias tree='eza --tree'
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # Node.js 版本管理
@@ -335,6 +342,7 @@ echo "18.17.0" > .nvmrc  # 创建版本文件
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 文件管理器
@@ -382,6 +390,7 @@ Enter                   # 进入目录/打开文件
 ---
 layout: two-cols
 class: text-sm
+level: 2
 ---
 
 # 终端复用器
@@ -430,6 +439,7 @@ Ctrl+b "                # 水平分割
 ---
 layout: center
 class: text-center
+level: 2
 ---
 
 # 命令行工具配置完成！
