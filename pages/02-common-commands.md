@@ -15,8 +15,6 @@ level: 2
 
 # 包管理工具
 
-## Homebrew vs Nix
-
 <div class="space-y-4">
 
 ### Homebrew

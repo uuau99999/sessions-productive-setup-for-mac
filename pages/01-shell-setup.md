@@ -13,9 +13,8 @@ level: 2
 
 # Shell 选择
 
-## bash vs zsh vs fish
 
-<div class="space-y-4">
+<div class="space-y-2">
 
 ### bash
 - **默认**: macOS 默认 shell
@@ -99,8 +98,6 @@ level: 2
 ---
 
 # 命令提示符美化
-
-## Powerlevel10k vs Starship
 
 <div class="space-y-4">
 

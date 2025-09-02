@@ -15,7 +15,6 @@ level: 2
 
 # 配置同步方案
 
-## Stow vs Nix
 
 <div class="space-y-4">
 

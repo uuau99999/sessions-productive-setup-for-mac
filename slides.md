@@ -23,7 +23,7 @@ seoMeta:
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10">
-    开始探索 <carbon:arrow-right class="inline"/>
+    开始<carbon:arrow-right class="inline"/>
   </span>
 </div>
 

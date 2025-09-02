@@ -32,6 +32,10 @@ level: 2
 - 系统事件响应
 
 </div>
+<div class="mt-6 p-4 bg-blue-50 rounded-lg">
+  <div class="text-sm font-semibold text-blue-800">自动化</div>
+  <div class="text-sm text-blue-700">Hammerspoon 让 Mac 操作更加自动化</div>
+</div>
 
 ::right::
 
@@ -62,10 +66,6 @@ hs.keycodes.inputSourceChanged(function()
 end)
 ```
 
-<div class="mt-6 p-4 bg-blue-50 rounded-lg">
-  <div class="text-sm font-semibold text-blue-800">自动化</div>
-  <div class="text-sm text-blue-700">Hammerspoon 让 Mac 操作更加自动化</div>
-</div>
 
 ---
 layout: two-cols
@@ -109,12 +109,10 @@ hs.hotkey.bind({"cmd", "alt"}, "1", function()
   f.h = max.h / 2
   win:setFrame(f)
 end)
-
 -- 输入法自动切换
 local function setInputMethod(inputMethod)
   hs.keycodes.setMethod(inputMethod)
 end
-
 hs.application.watcher.new(function(name, event, app)
   if event == hs.application.watcher.activated then
     if name == "Code" then
